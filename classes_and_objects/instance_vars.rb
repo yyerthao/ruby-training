@@ -7,6 +7,8 @@ class Spaceship
     @destination = destination
     # go towards destination
   end
+
+  # dummy commit
   # calling another method inside this class
     def destination
       @destination
